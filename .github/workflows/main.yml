@@ -1,0 +1,30 @@
+name: update awesome-stars
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: 30 */12 * * *
+jobs:
+  awesome-stars:
+    name: update awesome-stars
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install starred
+  
+    - name: Generate README
+      run: starred --username badmojr --sort > README.md
+      
+    - name: Commit & Push
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        
