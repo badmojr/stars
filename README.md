@@ -5,9 +5,7 @@
 
 ## Contents
 
-  - [Batchfile](#batchfile)
   - [C](#c)
-  - [CSS](#css)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -16,21 +14,12 @@
   - [Others](#others)
   - [Python](#python)
   - [Shell](#shell)
-  - [Smarty](#smarty)
   - [Vue](#vue)
-
-## Batchfile 
-
-- [DesktopECHO/Pi-Hole-for-WSL1](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) - Ad-blocking DNS server for Windows 10 with DoH pre-configured.  Easy setup, no hypervisor/docker required.
 
 ## C 
 
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)
-
-## CSS 
-
-- [minoplhy/filters-build](https://github.com/minoplhy/filters-build) - filters build for all my adblock project
 
 ## Go 
 
@@ -39,7 +28,6 @@
 ## HTML 
 
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - DNS filter-/blocklists for privacy. security. & clean browsing!
-- [API-Movies/API-Movies.github.io](https://github.com/API-Movies/API-Movies.github.io) - 
 
 ## Java 
 
@@ -74,8 +62,6 @@
 
 ## Python 
 
-- [evilfactorylabs/gatekeeper](https://github.com/evilfactorylabs/gatekeeper) - let's make the internet less sucks
-- [MM-coder/tls-client-hello-activity-tracking](https://github.com/MM-coder/tls-client-hello-activity-tracking) - Model and implementation of user activity tracking utilizing the TLS Client Hello’s server_name extension
 - [trinib/AdGuard-WireGuard-Unbound-Cloudflare](https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare) - Put a 🍓Raspberry-Pi🍰  to good use and get 🔒 protection | 🔎 privacy | 🚀 performance on your home network 24/7 🕛 Accessible anywhere 🌏🌑
 
 ## Shell 
@@ -91,10 +77,6 @@
 - [EnergizedProtection/unblock](https://github.com/EnergizedProtection/unblock) - Let's make an annoyance free, better open internet, altogether!
 - [AdroitAdorKhan/EnergizedProtection](https://github.com/AdroitAdorKhan/EnergizedProtection) - A merged collection of hosts from reputable sources. #StayEnergized!
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
-
-## Smarty 
-
-- [geekdada/surge-list](https://github.com/geekdada/surge-list) - Rules for Surge. DOMAIN-SET update daily.
 
 ## Vue 
 
