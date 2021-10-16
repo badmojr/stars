@@ -50,7 +50,7 @@
 - [cbuijs/ipasn](https://github.com/cbuijs/ipasn) - IP to ASN list
 - [the-markup/location-data-industry](https://github.com/the-markup/location-data-industry) - This contains the data and methodology that we used for our story "There’s a Multibillion-Dollar Market for Your Phone’s Location Data ."
 - [nbats/FMHYedit](https://github.com/nbats/FMHYedit) - Make changes to FMHY
-- [badmojr/addons_1Hosts](https://github.com/badmojr/addons_1Hosts) - extensions for 1Hosts
+- [badmojr/addons_1Hosts](https://github.com/badmojr/addons_1Hosts) - extensions
 - [saurane/Turkish-Blocklist](https://github.com/saurane/Turkish-Blocklist) - Turkish based ad and tracker blocklist.
 - [Freekers/ansible-adguard](https://github.com/Freekers/ansible-adguard) - Ansible playbook to setup AdGuard Home with Unbound, including DoH, DoT & Let's Encrypt, based on Docker
 - [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Hackers, Sniffers, etc..
