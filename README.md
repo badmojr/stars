@@ -62,6 +62,7 @@
 
 ## Python 
 
+- [sudozid/blockeddomaincheck](https://github.com/sudozid/blockeddomaincheck) - Check blocked domains on Indian ISPs
 - [trinib/AdGuard-WireGuard-Unbound-Cloudflare](https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare) - Put a 🍓Raspberry-Pi🍰  to good use and get 🔒 protection | 🔎 privacy | 🚀 performance on your home network 24/7 🕛 Accessible anywhere 🌏🌑
 
 ## Shell 
@@ -71,7 +72,7 @@
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
 - [Zelo72/rpi](https://github.com/Zelo72/rpi) - Scripts/Tools for Raspberry, PiHole and Unbound. Domain blocklists for PiHole and Co. Blocks ads, tracking, metrics, telemetry, fake, phishing, malware, coins, crypto and other "crap".
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
-- [T145/black-mirror](https://github.com/T145/black-mirror) - Automatically compiled and maintained malicious domain & IP blacklist.
+- [T145/black-mirror](https://github.com/T145/black-mirror) - Automatically maintained malicious host blacklists and false-positive whitelists.
 - [EnergizedProtection/magisk](https://github.com/EnergizedProtection/magisk) - Energized Protection Magisk Module Development.
 - [Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist) - The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web sites and protect your devices and pc from being infected with Malware or Ransomware.
 - [EnergizedProtection/unblock](https://github.com/EnergizedProtection/unblock) - Let's make an annoyance free, better open internet, altogether!
