@@ -53,7 +53,6 @@
 - [the-markup/location-data-industry](https://github.com/the-markup/location-data-industry) - This contains the data and methodology that we used for our story "There’s a Multibillion-Dollar Market for Your Phone’s Location Data ."
 - [nbats/FMHYedit](https://github.com/nbats/FMHYedit) - Make changes to FMHY
 - [badmojr/addons_1Hosts](https://github.com/badmojr/addons_1Hosts) - extensions
-- [saurane/Turkish-Blocklist](https://github.com/saurane/Turkish-Blocklist) - Turkish based ad and tracker blocklist.
 - [Freekers/ansible-adguard](https://github.com/Freekers/ansible-adguard) - Ansible playbook to setup AdGuard Home with Unbound, including DoH, DoT & Let's Encrypt, based on Docker
 - [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Hackers, Sniffers, etc..
 - [fnazz/docker-adguard-unbound-wireguard](https://github.com/fnazz/docker-adguard-unbound-wireguard) - This solution is a combination of WireGuard, AdGuard Home, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create and deploy a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities (via AdGuard), and DNS caching with additional privacy options (via Unbound).
