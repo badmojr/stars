@@ -11,6 +11,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Lua](#lua)
+  - [Markdown](#markdown)
   - [Others](#others)
   - [Python](#python)
   - [Shell](#shell)
@@ -45,6 +46,10 @@
 
 - [minoplhy/DNSserver](https://github.com/minoplhy/DNSserver) - My Personal Configuration for DNSserver using Haproxy or NGINX
 
+## Markdown 
+
+- [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme) - A Collection of GitHub Profiles with awesome readme
+
 ## Others 
 
 - [Karmesinrot/Anifiltrs](https://github.com/Karmesinrot/Anifiltrs) - A collection of filter lists for anime streaming, manga reading, and downloading of such things.
@@ -56,14 +61,12 @@
 - [Freekers/ansible-adguard](https://github.com/Freekers/ansible-adguard) - Ansible playbook to setup AdGuard Home with Unbound, including DoH, DoT & Let's Encrypt, based on Docker
 - [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Hackers, Sniffers, etc..
 - [fnazz/docker-adguard-unbound-wireguard](https://github.com/fnazz/docker-adguard-unbound-wireguard) - This solution is a combination of WireGuard, AdGuard Home, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create and deploy a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities (via AdGuard), and DNS caching with additional privacy options (via Unbound).
-- [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme) - A Collection of GitHub Profiles with awesome readme
 - [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - DNS Block Lists
 - [nextdns/metadata](https://github.com/nextdns/metadata) - This repository contains the data behind our Security, Privacy and Parental Control features.
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 
 ## Python 
 
-- [sudozid/blockeddomaincheck](https://github.com/sudozid/blockeddomaincheck) - Check blocked domains on Indian ISPs
 - [trinib/AdGuard-WireGuard-Unbound-Cloudflare](https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare) - Put a 🍓Raspberry-Pi🍰  to good use and get 🔒 protection | 🔎 privacy | 🚀 performance on your home network 24/7 🕛 Accessible anywhere 🌏🌑
 
 ## Shell 
