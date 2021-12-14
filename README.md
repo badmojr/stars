@@ -10,6 +10,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
   - [Markdown](#markdown)
   - [Others](#others)
@@ -41,6 +42,10 @@
 - [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+
+## Jupyter Notebook 
+
+- [fdac21/TeamTLS](https://github.com/fdac21/TeamTLS) - 
 
 ## Lua 
 
