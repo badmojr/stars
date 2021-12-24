@@ -25,6 +25,7 @@
 
 ## Go 
 
+- [ltgcgo/domain-db](https://github.com/ltgcgo/domain-db) - 🛡 Several domain lists compiled into a database file used by V2Ray.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 
 ## HTML 
