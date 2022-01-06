@@ -58,6 +58,7 @@
 
 ## Others 
 
+- [spiri-leo/blocklist-collection](https://github.com/spiri-leo/blocklist-collection) - The blocklist collection for block ads and tracking and more.
 - [saurane/Turkish-Blocklist](https://github.com/saurane/Turkish-Blocklist) - Turkish based ad and tracker blocking project for DNS/Adblocker.
 - [SoylentBob/awesome-dns](https://github.com/SoylentBob/awesome-dns) - A curated list of awesome DNS resources
 - [Karmesinrot/Anifiltrs](https://github.com/Karmesinrot/Anifiltrs) - A collection of filter lists for anime streaming, manga reading, and downloading of such things.
