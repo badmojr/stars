@@ -30,6 +30,7 @@
 
 ## HTML 
 
+- [sharjeelsayed/learn.sharjeelsayed.com](https://github.com/sharjeelsayed/learn.sharjeelsayed.com) - Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - DNS filter-/blocklists for privacy. security. & clean browsing!
 
 ## Java 
@@ -58,6 +59,7 @@
 
 ## Others 
 
+- [fabston/little-snitch-blocklist](https://github.com/fabston/little-snitch-blocklist) - 🛡 Little Snitch Malicious URL Blocklist.
 - [spiri-leo/blocklist-collection](https://github.com/spiri-leo/blocklist-collection) - The blocklist collection for block ads and tracking and more.
 - [saurane/Turkish-Blocklist](https://github.com/saurane/Turkish-Blocklist) - Turkish based ad and tracker blocking project for DNS/Adblocker.
 - [SoylentBob/awesome-dns](https://github.com/SoylentBob/awesome-dns) - A curated list of awesome DNS resources
