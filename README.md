@@ -30,8 +30,8 @@
 
 ## HTML 
 
-- [sharjeelsayed/learn.sharjeelsayed.com](https://github.com/sharjeelsayed/learn.sharjeelsayed.com) - Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - DNS filter-/blocklists for privacy. security. & clean browsing!
+- [sharjeelsayed/learn.sharjeelsayed.com](https://github.com/sharjeelsayed/learn.sharjeelsayed.com) - Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
 
 ## Java 
 
