@@ -89,7 +89,6 @@
 - [j-moriarti/pDNSf-Hosts-collection](https://github.com/j-moriarti/pDNSf-Hosts-collection) - My personalized Hosts file collection of various sources, cleaned and optimized specially for pDNSf
 - [AhaDNS/dns-server-setup](https://github.com/AhaDNS/dns-server-setup) - Ansible playbook to easily deploy new, fully configured, DNS servers.
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
-- [Zelo72/rpi](https://github.com/Zelo72/rpi) - Scripts/Tools for Raspberry, PiHole and Unbound. Domain blocklists for PiHole and Co. Blocks ads, tracking, metrics, telemetry, fake, phishing, malware, coins, crypto and other "crap".
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [T145/black-mirror](https://github.com/T145/black-mirror) - Automatically maintained malicious host blacklists and false-positive whitelists.
 - [EnergizedProtection/magisk](https://github.com/EnergizedProtection/magisk) - Energized Protection Magisk Module Development.
