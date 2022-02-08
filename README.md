@@ -64,6 +64,7 @@
 
 ## Others 
 
+- [adgellida/data-protection-list](https://github.com/adgellida/data-protection-list) - 🔒 Manual of resistance to surveillance capitalism - Based on Valentin Delacour version - https://codeberg.org/PrivacyFirst/PrivacyFirst/issues - Telegram group:  - https://t.me/privacid
 - [fabston/little-snitch-blocklist](https://github.com/fabston/little-snitch-blocklist) - 🛡 Little Snitch Malicious URL Blocklist.
 - [spiri-leo/blocklist-collection](https://github.com/spiri-leo/blocklist-collection) - The blocklist collection for block ads and tracking and more.
 - [saurane/Turkish-Blocklist](https://github.com/saurane/Turkish-Blocklist) - Turkish based ad and tracker blocking project for DNS/Adblocker.
