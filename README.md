@@ -32,7 +32,7 @@
 ## HTML 
 
 - [sharjeelsayed/learn.sharjeelsayed.com](https://github.com/sharjeelsayed/learn.sharjeelsayed.com) - Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
-- [badmojr/addons_1Hosts](https://github.com/badmojr/addons_1Hosts) - extensions
+- [badmojr/addons_1Hosts](https://github.com/badmojr/addons_1Hosts) - DNS filter-/blocklists for  protection against NSFW.
 
 ## Java 
 
