@@ -15,9 +15,9 @@
   - [Lua](#lua)
   - [Markdown](#markdown)
   - [Others](#others)
-  - [Python](#python)
   - [Shell](#shell)
   - [Vue](#vue)
+  - [YAML](#yaml)
 
 ## C 
 
@@ -80,10 +80,6 @@
 - [nextdns/metadata](https://github.com/nextdns/metadata) - This repository contains the data behind our Security, Privacy and Parental Control features.
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 
-## Python 
-
-- [trinib/AdGuard-WireGuard-Unbound-Cloudflare](https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare) - 🍓Raspberry-Pi🍰 Ultimate Security Guide | 🔒 Protection | 🔎 Privacy | 🚀 Performance on home network 24/7 🕛 Accessible anywhere 🌏🌑
-
 ## Shell 
 
 - [yubiuser/pihole_adlist_tool](https://github.com/yubiuser/pihole_adlist_tool) - A tool to analyse how your pihole adlists cover you browsing behavior
@@ -101,6 +97,10 @@
 ## Vue 
 
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+
+## YAML 
+
+- [trinib/AdGuard-WireGuard-Unbound-Cloudflare](https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare) - 🍓Raspberry-Pi🍰 Ultimate Security Guide | 🔒 Protection | 🔎 Privacy | 🚀 Performance on home network 24/7 🕛 Accessible anywhere 🌏🌑
 
 
 ## License
