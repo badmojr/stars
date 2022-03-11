@@ -82,6 +82,7 @@
 
 ## Shell 
 
+- [PeterDaveHello/ColorEchoForShell](https://github.com/PeterDaveHello/ColorEchoForShell) - Make 🐚(shell) 's 💬 (`echo`)  to be 🌈 easily ✨ Support ✅ sh ➕ bash ➕ zsh ➕ ksh ➕ 🐟
 - [yubiuser/pihole_adlist_tool](https://github.com/yubiuser/pihole_adlist_tool) - A tool to analyse how your pihole adlists cover you browsing behavior
 - [j-moriarti/pDNSf-Hosts-collection](https://github.com/j-moriarti/pDNSf-Hosts-collection) - My personalized Hosts file collection of various sources, cleaned and optimized specially for pDNSf
 - [AhaDNS/dns-server-setup](https://github.com/AhaDNS/dns-server-setup) - Ansible playbook to easily deploy new, fully configured, DNS servers.
