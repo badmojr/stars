@@ -101,7 +101,7 @@
 
 ## YAML 
 
-- [trinib/AdGuard-WireGuard-Unbound-Cloudflare](https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare) - The Ultimate Network Security Guide | 🔒 Protection | 🔎 Privacy | 🚀 Performance on home network 24/7 🕛 Accessible anywhere 🌏
+- [trinib/AdGuard-WireGuard-Unbound-Cloudflare](https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare) - The Ultimate Network Security Guide 🔒 Protection | 🔎 Privacy | 🚀 Performance on home network 24/7 🕛 Accessible anywhere 🌏
 
 
 ## License
