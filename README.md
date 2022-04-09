@@ -64,6 +64,8 @@
 
 ## Others 
 
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+- [robonxt/CleanYourTwitter](https://github.com/robonxt/CleanYourTwitter) - Adblock filters for Twitter. Removes Promoted Tweets, You Might Like, Who to Follow, What's Happening
 - [adgellida/data-protection-list](https://github.com/adgellida/data-protection-list) - 🔒 Manual of resistance to surveillance capitalism - Based on Valentin Delacour version - https://codeberg.org/PrivacyFirst/PrivacyFirst/issues - Telegram group:  - https://t.me/privacid
 - [spiri-leo/blocklist-collection](https://github.com/spiri-leo/blocklist-collection) - The blocklist collection for block ads and tracking and more.
 - [saurane/Turkish-Blocklist](https://github.com/saurane/Turkish-Blocklist) - Turkish based ad and tracker blocking project for DNS/Adblocker.
