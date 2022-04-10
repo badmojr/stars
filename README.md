@@ -15,6 +15,7 @@
   - [Lua](#lua)
   - [Markdown](#markdown)
   - [Others](#others)
+  - [PowerShell](#powershell)
   - [Shell](#shell)
   - [Vue](#vue)
   - [YAML](#yaml)
@@ -40,6 +41,7 @@
 
 ## JavaScript 
 
+- [raxod502/riju](https://github.com/raxod502/riju) - ⚡ Extremely fast online playground for every programming language.
 - [serverless-dns/blocklists](https://github.com/serverless-dns/blocklists) - An opinionated collection of blocklists for RethinkDNS.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
 - [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
@@ -82,8 +84,13 @@
 - [nextdns/metadata](https://github.com/nextdns/metadata) - This repository contains the data behind our Security, Privacy and Parental Control features.
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 
+## PowerShell 
+
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and tweaking
+
 ## Shell 
 
+- [dopch/Unbound-root-hints-updater](https://github.com/dopch/Unbound-root-hints-updater) - Auto update root hints for unbound
 - [PeterDaveHello/ColorEchoForShell](https://github.com/PeterDaveHello/ColorEchoForShell) - Make 🐚(shell) 's 💬 (`echo`)  to be 🌈 easily ✨ Support ✅ sh ➕ bash ➕ zsh ➕ ksh ➕ 🐟
 - [yubiuser/pihole_adlist_tool](https://github.com/yubiuser/pihole_adlist_tool) - A tool to analyse how your pihole adlists cover you browsing behavior
 - [j-moriarti/pDNSf-Hosts-collection](https://github.com/j-moriarti/pDNSf-Hosts-collection) - My personalized Hosts file collection of various sources, cleaned and optimized specially for pDNSf
