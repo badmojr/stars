@@ -55,7 +55,7 @@
 
 ## LiveScript 
 
-- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - DNS filter-/blocklists for privacy. security. & clean browsing!
+- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced general-purpose DNS filter-/blocklists!
 
 ## Lua 
 
