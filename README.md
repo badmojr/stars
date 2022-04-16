@@ -38,6 +38,7 @@
 
 ## Java 
 
+- [divestedcg/Simple_Hosts_Merger](https://github.com/divestedcg/Simple_Hosts_Merger) - Merges HOSTS files
 - [eblocker/eblocker](https://github.com/eblocker/eblocker) - eBlocker's UI, REST and ICAP server
 
 ## JavaScript 
@@ -67,6 +68,7 @@
 
 ## Others 
 
+- [elliotwutingfeng/Inversion-DNSBL-Blocklists](https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists) - Malicious URL blocklists for DNSBL applications like pfBlockerNG or Pi-hole, automatically updated every 24 hours.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [robonxt/CleanYourTwitter](https://github.com/robonxt/CleanYourTwitter) - Adblock filters for Twitter. Removes Promoted Tweets, You Might Like, Who to Follow, What's Happening
 - [adgellida/data-protection-list](https://github.com/adgellida/data-protection-list) - 🔒 Manual of resistance to surveillance capitalism - Based on Valentin Delacour version - https://codeberg.org/PrivacyFirst/PrivacyFirst/issues - Telegram group:  - https://t.me/privacid
