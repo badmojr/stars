@@ -52,6 +52,7 @@
 
 ## Jupyter Notebook 
 
+- [marty90/priv-accept](https://github.com/marty90/priv-accept) - 
 - [fdac21/TeamTLS](https://github.com/fdac21/TeamTLS) - 
 
 ## LiveScript 
