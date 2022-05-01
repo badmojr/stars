@@ -95,7 +95,7 @@
 
 ## Shell 
 
-- [badmojr/crosscheck](https://github.com/badmojr/crosscheck) - 
+- [badmojr/crosscheck](https://github.com/badmojr/crosscheck) - Comparison of blocklists and how much of their contents is included on other lists.
 - [dopch/Unbound-root-hints-updater](https://github.com/dopch/Unbound-root-hints-updater) - Auto update root hints for unbound
 - [PeterDaveHello/ColorEchoForShell](https://github.com/PeterDaveHello/ColorEchoForShell) - Make 🐚(shell) 's 💬 (`echo`)  to be 🌈 easily ✨ Support ✅ sh ➕ bash ➕ zsh ➕ ksh ➕ 🐟
 - [yubiuser/pihole_adlist_tool](https://github.com/yubiuser/pihole_adlist_tool) - A tool to analyse how your pihole adlists cover you browsing behavior
