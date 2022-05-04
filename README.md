@@ -16,6 +16,7 @@
   - [Markdown](#markdown)
   - [Others](#others)
   - [PowerShell](#powershell)
+  - [Python](#python)
   - [Shell](#shell)
   - [Vue](#vue)
   - [YAML](#yaml)
@@ -93,6 +94,10 @@
 ## PowerShell 
 
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and tweaking
+
+## Python 
+
+- [NDDDDDDDDD/trackextract](https://github.com/NDDDDDDDDD/trackextract) - Tool that extracts third-party trackers from given list of URLs
 
 ## Shell 
 
