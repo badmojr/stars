@@ -45,6 +45,7 @@
 
 ## JavaScript 
 
+- [SlayterDev/tracker-radar-wiki](https://github.com/SlayterDev/tracker-radar-wiki) - Generation scripts and source for Tracker Radar Wiki
 - [raxod502/riju](https://github.com/raxod502/riju) - ⚡ Extremely fast online playground for every programming language.
 - [serverless-dns/blocklists](https://github.com/serverless-dns/blocklists) - An opinionated collection of blocklists for RethinkDNS.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
