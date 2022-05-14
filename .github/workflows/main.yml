@@ -21,10 +21,12 @@ jobs:
         pip install starred
   
     - name: Generate README
-      run: starred --username badmojr --sort > README.md
+      env:
+        TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        USER: ${{ github.repository_owner }}
+      run: starred --username ${USER} --token ${TOKEN} --sort > README.md
       
     - name: Commit & Push
       uses: actions-js/push@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        
