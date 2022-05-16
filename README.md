@@ -18,6 +18,7 @@
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
+- [TypeScript](#typescript)
 - [Vue](#vue)
 - [YAML](#yaml)
 
@@ -118,6 +119,10 @@
 - [EnergizedProtection/unblock](https://github.com/EnergizedProtection/unblock) - Let's make an annoyance free, better open internet, altogether!
 - [AdroitAdorKhan/EnergizedProtection](https://github.com/AdroitAdorKhan/EnergizedProtection) - A merged collection of hosts from reputable sources. #StayEnergized!
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
+
+## TypeScript 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## Vue 
 
