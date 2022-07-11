@@ -101,6 +101,7 @@
 
 ## Rust 
 
+- [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
 - [Barre/privaxy](https://github.com/Barre/privaxy) - (work in progress) Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
 
 ## Shell 
