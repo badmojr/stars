@@ -46,6 +46,7 @@
 
 ## JavaScript 
 
+- [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) - DNS-over-HTTPS proxy on Cloudflare Workers
 - [2202x2/freenom](https://github.com/2202x2/freenom) - 📰 A website that uses Freenom to check the available free domains
 - [SlayterDev/tracker-radar-wiki](https://github.com/SlayterDev/tracker-radar-wiki) - Generation scripts and source for Tracker Radar Wiki
 - [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
