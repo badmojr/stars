@@ -76,7 +76,7 @@
 - [elliotwutingfeng/Inversion-DNSBL-Blocklists](https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists) - Malicious URL blocklists for DNSBL applications like pfBlockerNG or Pi-hole, automatically updated every 24 hours.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [robonxt/CleanYourTwitter](https://github.com/robonxt/CleanYourTwitter) - Adblock filters for Twitter. Removes Promoted Tweets, You Might Like, Who to Follow, What's Happening
-- [adgellida/data-protection-list](https://github.com/adgellida/data-protection-list) - 🔒 Manual of resistance to surveillance capitalism - Based on Valentin Delacour version - https://codeberg.org/PrivacyFirst/PrivacyFirst/issues - Telegram group:  - https://t.me/privacid
+- [adgellida/data-protection-list](https://github.com/adgellida/data-protection-list) - 🔒 Manual of resistance to surveillance capitalism - Based on Valentin Delacour version - https://codeberg.org/PrivacyFirst/PrivacyFirst/issues - Telegram group:  - https://t.me/privacidadlibre
 - [spiri-leo/blocklist-collection](https://github.com/spiri-leo/blocklist-collection) - The blocklist collection for block ads and tracking and more.
 - [saurane/Turkish-Blocklist](https://github.com/saurane/Turkish-Blocklist) - Turkish based ad and tracker blocking project for DNS/Adblocker.
 - [SoylentBob/awesome-dns](https://github.com/SoylentBob/awesome-dns) - A curated list of awesome DNS resources
