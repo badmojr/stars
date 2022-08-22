@@ -70,7 +70,7 @@
 
 ## Others 
 
-- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - 
+- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - NextDNS is a DNS-over-HTTPS (DoH) proxy with advanced capabilities.
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [AdguardTeam/AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) - AdGuard Simplified Domain names filter
 - [elliotwutingfeng/Inversion-DNSBL-Blocklists](https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists) - Malicious URL blocklists for DNSBL applications like pfBlockerNG or Pi-hole, automatically updated every 24 hours.
