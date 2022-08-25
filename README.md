@@ -95,7 +95,7 @@
 ## PowerShell 
 
 - [demerara151/setup-new-pc](https://github.com/demerara151/setup-new-pc) - 新PCのセットアップ手順覚書
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and tweaking
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 
 ## Python 
 
