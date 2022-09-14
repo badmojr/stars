@@ -41,7 +41,6 @@
 
 - [bbauska/boomboom](https://github.com/bbauska/boomboom) - Book of Secret Knowledge
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
-- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
 - [sharjeelsayed/learn.sharjeelsayed.com](https://github.com/sharjeelsayed/learn.sharjeelsayed.com) - Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
 - [badmojr/addons_1Hosts](https://github.com/badmojr/addons_1Hosts) - DNS filter-/blocklists for  protection against NSFW.
 
