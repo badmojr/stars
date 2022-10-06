@@ -77,7 +77,7 @@
 
 ## Others 
 
-- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - A setup guide for NextDNS, a DNS-over-HTTPS proxy with advanced capabilities.
+- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - A setup guide for NextDNS, a DoH proxy with advanced capabilities.
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [elliotwutingfeng/Inversion-DNSBL-Blocklists](https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists) - Malicious URL blocklists for DNSBL applications like pfBlockerNG or Pi-hole, automatically updated every 24 hours.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
