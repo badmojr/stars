@@ -19,7 +19,6 @@
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
-- [Vue](#vue)
 - [YAML](#yaml)
 
 ## Adblock Filter List 
@@ -93,6 +92,7 @@
 - [Freekers/ansible-adguard](https://github.com/Freekers/ansible-adguard) - Ansible playbook to setup AdGuard Home with Unbound, including DoH, DoT & Let's Encrypt, based on Docker
 - [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Bots, Hackers, Sniffers, etc..
 - [fnazz/docker-adguard-unbound-wireguard](https://github.com/fnazz/docker-adguard-unbound-wireguard) - This solution is a combination of WireGuard, AdGuard Home, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create and deploy a personally managed full o
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - DNS Block Lists
 - [nextdns/metadata](https://github.com/nextdns/metadata) - This repository contains the data behind our Security, Privacy and Parental Control features.
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
@@ -128,10 +128,6 @@
 - [EnergizedProtection/unblock](https://github.com/EnergizedProtection/unblock) - Let's make an annoyance free, better open internet, altogether!
 - [AdroitAdorKhan/EnergizedProtection](https://github.com/AdroitAdorKhan/EnergizedProtection) - A merged collection of hosts from reputable sources. #StayEnergized!
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
-
-## Vue 
-
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 
 ## YAML 
 
