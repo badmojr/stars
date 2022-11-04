@@ -55,6 +55,7 @@
 - [2202x2/freenom](https://github.com/2202x2/freenom) - 📰 A website that uses Freenom to check the available free domains
 - [SlayterDev/tracker-radar-wiki](https://github.com/SlayterDev/tracker-radar-wiki) - Generation scripts and source for Tracker Radar Wiki
 - [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
+- [serverless-dns/blocklists](https://github.com/serverless-dns/blocklists) - An opinionated collection of blocklists for RethinkDNS.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
 - [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
@@ -104,7 +105,6 @@
 ## Python 
 
 - [NDDDDDDDDD/trackextract](https://github.com/NDDDDDDDDD/trackextract) - Tool that extracts third-party trackers from given list of URLs
-- [serverless-dns/blocklists](https://github.com/serverless-dns/blocklists) - An opinionated collection of blocklists for RethinkDNS.
 
 ## Rust 
 
