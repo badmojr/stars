@@ -99,11 +99,12 @@
 
 ## PowerShell 
 
-- [demerara151/setup-new-pc](https://github.com/demerara151/setup-new-pc) - 新PCのセットアップ手順覚書
+- [demerara151/setup-new-pc](https://github.com/demerara151/setup-new-pc) - Windows を快適に使うための PC セットアップ手順
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 
 ## Python 
 
+- [lukaskronus/myfilterlist](https://github.com/lukaskronus/myfilterlist) - 
 - [NDDDDDDDDD/trackextract](https://github.com/NDDDDDDDDD/trackextract) - Tool that extracts third-party trackers from given list of URLs
 
 ## Rust 
