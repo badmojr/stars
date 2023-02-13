@@ -40,6 +40,7 @@
 ## HTML 
 
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [bbauska/boomboom](https://github.com/bbauska/boomboom) - Book of Secret Knowledge
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [sharjeelsayed/learn.sharjeelsayed.com](https://github.com/sharjeelsayed/learn.sharjeelsayed.com) - Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
@@ -82,7 +83,6 @@
 ## Others 
 
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities.
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [elliotwutingfeng/Inversion-DNSBL-Blocklists](https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists) - Malicious URLs identified by scanning various public URL sources using the Google Safe Browsing API (over 6 billion URLs scanned daily)
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [robonxt/CleanYourTwitter](https://github.com/robonxt/CleanYourTwitter) - Adblock filters for Twitter. Removes Promoted Tweets, You Might Like, Who to Follow, What's Happening
