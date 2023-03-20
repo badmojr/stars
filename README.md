@@ -121,7 +121,7 @@
 
 - [badmojr/crosscheck](https://github.com/badmojr/crosscheck) - Comparison of blocklists and how much of their contents is included on other lists.
 - [dopch/Unbound-root-hints-updater](https://github.com/dopch/Unbound-root-hints-updater) - Auto update root hints for unbound
-- [PeterDaveHello/ColorEchoForShell](https://github.com/PeterDaveHello/ColorEchoForShell) - Make 🐚(shell) 's 💬 (`echo`)  to be 🌈 easily ✨ Support ✅ sh ➕ bash ➕ zsh ➕ ksh ➕ 🐟
+- [PeterDaveHello/ColorEchoForShell](https://github.com/PeterDaveHello/ColorEchoForShell) - Make 🐚(shell) 's 💬 (`echo`)  to be 🎨 easily ✨ Support ✅ sh ➕ bash ➕ zsh ➕ ksh ➕ 🐟 One simple command for vibrant text output! 💫
 - [yubiuser/pihole_adlist_tool](https://github.com/yubiuser/pihole_adlist_tool) - A tool to analyse how your pihole adlists cover you browsing behavior
 - [j-moriarti/pDNSf-Hosts-collection](https://github.com/j-moriarti/pDNSf-Hosts-collection) - My personalized Hosts file collection of various sources, cleaned and optimized specially for pDNSf
 - [AhaDNS/dns-server-setup](https://github.com/AhaDNS/dns-server-setup) - Ansible playbook to easily deploy new, fully configured, DNS servers.
