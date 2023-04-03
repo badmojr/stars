@@ -20,6 +20,7 @@
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Text](#text)
 - [YAML](#yaml)
 
 ## Adblock Filter List 
@@ -40,7 +41,6 @@
 ## HTML 
 
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [bbauska/boomboom](https://github.com/bbauska/boomboom) - Book of Secret Knowledge
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [sharjeelsayed/learn.sharjeelsayed.com](https://github.com/sharjeelsayed/learn.sharjeelsayed.com) - Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
@@ -133,6 +133,10 @@
 - [EnergizedProtection/unblock](https://github.com/EnergizedProtection/unblock) - Let's make an annoyance free, better open internet, altogether!
 - [AdroitAdorKhan/EnergizedProtection](https://github.com/AdroitAdorKhan/EnergizedProtection) - A merged collection of hosts from reputable sources. #StayEnergized!
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
+
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## YAML 
 
