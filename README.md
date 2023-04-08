@@ -127,7 +127,7 @@
 - [AhaDNS/dns-server-setup](https://github.com/AhaDNS/dns-server-setup) - Ansible playbook to easily deploy new, fully configured, DNS servers.
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
-- [T145/black-mirror](https://github.com/T145/black-mirror) - Blacklists and whitelists that aim to promote security, safety, and sanity across the internet!
+- [T145/black-mirror](https://github.com/T145/black-mirror) - Blacklists and whitelists built by open code, so you know what goes into them.
 - [EnergizedProtection/magisk](https://github.com/EnergizedProtection/magisk) - Energized Protection Magisk Module Development.
 - [Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist) - The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web 
 - [EnergizedProtection/unblock](https://github.com/EnergizedProtection/unblock) - Let's make an annoyance free, better open internet, altogether!
