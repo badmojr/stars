@@ -13,6 +13,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [Others](#others)
@@ -71,6 +72,10 @@
 
 - [marty90/priv-accept](https://github.com/marty90/priv-accept) - 
 - [fdac21/TeamTLS](https://github.com/fdac21/TeamTLS) - 
+
+## Kotlin 
+
+- [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android.
 
 ## Lua 
 
