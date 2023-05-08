@@ -98,7 +98,7 @@
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [cbuijs/ipasn](https://github.com/cbuijs/ipasn) - IP to ASN list
 - [the-markup/location-data-industry](https://github.com/the-markup/location-data-industry) - This contains the data and methodology that we used for our story "There’s a Multibillion-Dollar Market for Your Phone’s Location Data ."
-- [nbats/FMHYedit](https://github.com/nbats/FMHYedit) - Make changes to FMHY
+- [fmhy/FMHYedit](https://github.com/fmhy/FMHYedit) - Make changes to FMHY
 - [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Bots, Hackers, Sniffers, etc..
 - [fnazz/docker-adguard-unbound-wireguard](https://github.com/fnazz/docker-adguard-unbound-wireguard) - This solution is a combination of WireGuard, AdGuard Home, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create and deploy a personally managed full o
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
