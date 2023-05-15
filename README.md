@@ -99,7 +99,6 @@
 - [cbuijs/ipasn](https://github.com/cbuijs/ipasn) - IP to ASN list
 - [the-markup/location-data-industry](https://github.com/the-markup/location-data-industry) - This contains the data and methodology that we used for our story "There’s a Multibillion-Dollar Market for Your Phone’s Location Data ."
 - [fmhy/FMHYedit](https://github.com/fmhy/FMHYedit) - Make changes to FMHY
-- [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Bots, Hackers, Sniffers, etc..
 - [fnazz/docker-adguard-unbound-wireguard](https://github.com/fnazz/docker-adguard-unbound-wireguard) - This solution is a combination of WireGuard, AdGuard Home, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create and deploy a personally managed full o
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - DNS Block Lists
@@ -131,6 +130,7 @@
 - [j-moriarti/pDNSf-Hosts-collection](https://github.com/j-moriarti/pDNSf-Hosts-collection) - My personalized Hosts file collection of various sources, cleaned and optimized specially for pDNSf
 - [AhaDNS/dns-server-setup](https://github.com/AhaDNS/dns-server-setup) - Ansible playbook to easily deploy new, fully configured, DNS servers.
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
+- [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Bots, Hackers, Sniffers, etc..
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [T145/black-mirror](https://github.com/T145/black-mirror) - Blacklists and whitelists built by open code, so you know what goes into them.
 - [EnergizedProtection/magisk](https://github.com/EnergizedProtection/magisk) - Energized Protection Magisk Module Development.
