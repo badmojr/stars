@@ -45,6 +45,7 @@
 - [bbauska/boomboom](https://github.com/bbauska/boomboom) - Book of Secret Knowledge
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [sharjeelsayed/learn.sharjeelsayed.com](https://github.com/sharjeelsayed/learn.sharjeelsayed.com) - Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
+- [fmhy/FMHYedit](https://github.com/fmhy/FMHYedit) - Make changes to FMHY
 - [badmojr/addons_1Hosts](https://github.com/badmojr/addons_1Hosts) - DNS filter-/blocklists for  protection against NSFW.
 
 ## Java 
@@ -98,7 +99,6 @@
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [cbuijs/ipasn](https://github.com/cbuijs/ipasn) - IP to ASN list
 - [the-markup/location-data-industry](https://github.com/the-markup/location-data-industry) - This contains the data and methodology that we used for our story "There’s a Multibillion-Dollar Market for Your Phone’s Location Data ."
-- [fmhy/FMHYedit](https://github.com/fmhy/FMHYedit) - Make changes to FMHY
 - [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Bots, Hackers, Sniffers, etc..
 - [fnazz/docker-adguard-unbound-wireguard](https://github.com/fnazz/docker-adguard-unbound-wireguard) - This solution is a combination of WireGuard, AdGuard Home, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create and deploy a personally managed full o
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
