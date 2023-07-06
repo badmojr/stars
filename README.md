@@ -91,7 +91,7 @@
 - [SlayterDev/tracker-radar-wiki](https://github.com/SlayterDev/tracker-radar-wiki) - Generation scripts and source for Tracker Radar Wiki
 - [elliotwutingfeng/Inversion-DNSBL-Blocklists](https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists) - Malicious URLs identified by scanning various public URL sources using the Google Safe Browsing API (over 6 billion URLs scanned daily)
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-- [robonxt/CleanYourTwitter](https://github.com/robonxt/CleanYourTwitter) - Adblock filters for Twitter. Removes Promoted Tweets, You Might Like, Who to Follow, What's Happening
+- [robonxt/CleanYourTwitter](https://github.com/robonxt/CleanYourTwitter) - Adblock filters for Twitter. Removes Promoted Tweets, You Might Like, Who to Follow, What's Happening, and other annoyances
 - [adgellida/data-protection-list](https://github.com/adgellida/data-protection-list) - 🔒 Manual of resistance to surveillance capitalism - Based on Valentin Delacour version - https://codeberg.org/PrivacyFirst/PrivacyFirst/issues - Telegram group:  - https://t.me/privacidadlibre
 - [spiri-leo/blocklist-collection](https://github.com/spiri-leo/blocklist-collection) - The blocklist collection for block ads and tracking and more.
 - [saurane/Turkish-Blocklist](https://github.com/saurane/Turkish-Blocklist) - Turkish based ad and tracker blocking project for DNS/Adblocker.
