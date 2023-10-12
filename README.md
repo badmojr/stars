@@ -27,7 +27,7 @@
 
 ## Adblock Filter List 
 
-- [AdguardTeam/AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) - AdGuard Simplified Domain names filter
+- [AdguardTeam/AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) - AdGuard DNS filter
 - [Karmesinrot/Anifiltrs](https://github.com/Karmesinrot/Anifiltrs) - A collection of filter lists for anime streaming, manga reading, and downloading of such things.
 
 ## C 
