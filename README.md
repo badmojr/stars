@@ -7,7 +7,6 @@
 
 - [Adblock Filter List](#adblock-filter-list)
 - [C](#c)
-- [CSS](#css)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -23,6 +22,7 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Text](#text)
+- [TypeScript](#typescript)
 - [YAML](#yaml)
 
 ## Adblock Filter List 
@@ -34,10 +34,6 @@
 
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
-
-## CSS 
-
-- [fmhy/FMHYedit](https://github.com/fmhy/FMHYedit) - Make changes to FMHY
 
 ## Go 
 
@@ -146,6 +142,10 @@
 ## Text 
 
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+
+## TypeScript 
+
+- [fmhy/FMHYedit](https://github.com/fmhy/FMHYedit) - Make changes to FMHY
 
 ## YAML 
 
