@@ -57,7 +57,6 @@
 
 - [mahtd/nextdns-stats](https://github.com/mahtd/nextdns-stats) - 
 - [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) - DNS-over-HTTPS proxy on Cloudflare Workers
-- [2202x2/freenom](https://github.com/2202x2/freenom) - 📰 A website that uses Freenom to check the available free domains
 - [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
 - [serverless-dns/blocklists](https://github.com/serverless-dns/blocklists) - An opinionated collection of blocklists for RethinkDNS.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
